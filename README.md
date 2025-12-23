@@ -1,5 +1,5 @@
 ﻿# figmaLand_Frontend
- # JTG Frontend Landing Page Website
+ #  Frontend Landing Page Website
 
 A fully responsive and interactive landing page built as part of the **JTG Frontend Home Assignment**.  
 This project demonstrates strong skills in **HTML, CSS, and JavaScript**, along with UI/UX attention to detail such as animations, sliders, modals, video interaction, pricing UI, and contact form behavior.
@@ -100,6 +100,7 @@ If you want, I can also:
 ✔ Create a **portfolio-ready project description**
 
 Just tell me!
+
 
 
 
